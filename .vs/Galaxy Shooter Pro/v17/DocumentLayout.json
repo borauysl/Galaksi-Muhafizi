@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A73C8ABC-C78C-F95D-12C9-C1F04431C0A3}|Assembly-CSharp.csproj|c:\\users\\gta1b\\desktop\\oyun yap\u0131m\\galaksi muhaf\u0131z\u0131\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73C8ABC-C78C-F95D-12C9-C1F04431C0A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73C8ABC-C78C-F95D-12C9-C1F04431C0A3}|Assembly-CSharp.csproj|C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\assets\\scripts\\lazer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73C8ABC-C78C-F95D-12C9-C1F04431C0A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lazer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73C8ABC-C78C-F95D-12C9-C1F04431C0A3}|Assembly-CSharp.csproj|C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73C8ABC-C78C-F95D-12C9-C1F04431C0A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73C8ABC-C78C-F95D-12C9-C1F04431C0A3}|Assembly-CSharp.csproj|C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\assets\\scripts\\spawnmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73C8ABC-C78C-F95D-12C9-C1F04431C0A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73C8ABC-C78C-F95D-12C9-C1F04431C0A3}|Assembly-CSharp.csproj|C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\assets\\scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73C8ABC-C78C-F95D-12C9-C1F04431C0A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73C8ABC-C78C-F95D-12C9-C1F04431C0A3}|Assembly-CSharp.csproj|C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73C8ABC-C78C-F95D-12C9-C1F04431C0A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-04T18:13:08.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Powerup.cs",
+              "DocumentMoniker": "C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\Assets\\Scripts\\Powerup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Powerup.cs",
+              "ToolTip": "C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\Assets\\Scripts\\Powerup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Powerup.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAADQAAAAvAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-04T18:13:08.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpawnManeger.cs",
+              "DocumentMoniker": "C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\Assets\\Scripts\\SpawnManeger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManeger.cs",
+              "ToolTip": "C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\Assets\\Scripts\\SpawnManeger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManeger.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAA6AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-04T18:13:08.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-04T18:13:08.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lazer.cs",
+              "DocumentMoniker": "C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\Assets\\Scripts\\Lazer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lazer.cs",
+              "ToolTip": "C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\Assets\\Scripts\\Lazer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lazer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-04T18:13:08.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\gta1b\\Desktop\\oyun yap\u0131m\\Galaksi Muhaf\u0131z\u0131\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAI0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:13:08.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
